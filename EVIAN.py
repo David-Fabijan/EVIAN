@@ -27,7 +27,6 @@ from matplotlib.widgets import Button
 import numpy as np
 from scipy.interpolate import make_interp_spline
 
-
 skipFirst=0 #Change this number if you exited before analysing all grains and would like to continue where you stopped. If you leave it 0 in such case, you will get duplicates in the output files.
 
 #It is recomended that you install the gwyfile library if not this is the workaround

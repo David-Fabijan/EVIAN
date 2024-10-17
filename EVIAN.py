@@ -7,8 +7,6 @@
 # See http://www.wtfpl.net/ for more details.
 
 
-
-
 #This program is designed to help with the manual classification of vesicles (or other notable features) imaged by AFM methods
 #Internally the vesicles are called grains
 #To use this program you must first prepare the input files.
